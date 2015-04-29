@@ -13,3 +13,4 @@ Rails.application.routes.draw do
 
   get("/essentials/11", { :controller => "essentials", :action => "friendbc_11" })
 end
+
